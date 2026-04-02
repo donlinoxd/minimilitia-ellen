@@ -13,7 +13,7 @@ export default function Home() {
             </div>
             <div className='flex flex-col gap-3 items-center z-10 pt-40'>
                 <Link
-                    href='/'
+                    href='/description'
                     className='transition-all hover:bg-black/30 hover:scale-105 text-gray-200 rounded-2xl items-center justify-center bg-black/50 flex border-3 border-gray-300 h-20 w-[420px]'
                 >
                     TEAM HQ
