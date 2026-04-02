@@ -217,6 +217,7 @@ export default function Members() {
                                 alt={s.nickname}
                                 width={44}
                                 height={44}
+                                unoptimized
                                 className='rounded-full min-h-11 max-h-11 object-cover shrink-0'
                             />
                             <div className='min-w-0'>
@@ -236,6 +237,7 @@ export default function Members() {
                             alt={student.nickname}
                             width={72}
                             height={72}
+                            unoptimized
                             className='rounded-full object-cover ring-2 ring-white/30 shrink-0'
                         />
                         <div>
